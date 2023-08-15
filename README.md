@@ -5,11 +5,13 @@
 
 - 🔭 I’m currently working on [VaultKeeper](https://github.com/Ezeko95/VaultKeeper)
 
-- 🌱 I’m currently learning **react.js and typescript**
+- 🌱 I’m currently learning **MongoDB && typescript**
 
 - 💬 Ask me about **react, node.js, javascript, express, HTML5, CSS**
 
 - 📫 How to reach me **ciangianluca@hotmail.com**
+
+- [Linkedin](linkedin.com/in/gianluca-cianchi)
 
 - ⚡ Fun fact **I love drinking mate**
 
