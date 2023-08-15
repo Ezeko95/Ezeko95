@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MongoDB && typescript**
 
-- 💬 Ask me about **react, node.js, javascript, express, HTML5, CSS**
+- 💬 Ask me about **React, Node.js, Javascript, Express, PostgreSQL, and more!**
 
 - 📫 How to reach me **ciangianluca@hotmail.com** or **[Linkedin](linkedin.com/in/gianluca-cianchi)**
 
