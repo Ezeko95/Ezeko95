@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **react, node.js, javascript, express, HTML5, CSS**
 
-- 📫 How to reach me **ciangianluca@hotmail.com**
-
-- [Linkedin](linkedin.com/in/gianluca-cianchi)
+- 📫 How to reach me **ciangianluca@hotmail.com** or **[Linkedin](linkedin.com/in/gianluca-cianchi)**
 
 - ⚡ Fun fact **I love drinking mate**
 
