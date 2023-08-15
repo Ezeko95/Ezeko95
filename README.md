@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gianluca Cianchi</h1>
-<img align="center" width="1100px" src="https://github.com/Ezeko95/Intro/blob/main/Intro.gif?raw=true" alt="intro.gif"></img>
+<img align="center" width="1100px" src="https://raw.githubusercontent.com/Ezeko95/Intro/main/Intro.gif" alt="intro.gif"></img>
 <h3 align="center">I am an ambitious and confident individual, keen to improve and learn new skills. As an enthusiastic and pacient leader I feel motivated to help and teach others. With a background in graphic design, I have always been passionate about new technologies that can impact the future of programming. I took the initiative to enroll on a “Soy Henry” bootcamp course and will soon qualify as a Full Stack Web Developer.</h3>
 
 
-- 🔭 I’m currently working on [Individual Project about Countries](https://tough-face-production.up.railway.app/home)
+- 🔭 I’m currently working on [VaultKeeper](https://github.com/Ezeko95/VaultKeeper)
 
 - 🌱 I’m currently learning **react.js and typescript**
 
