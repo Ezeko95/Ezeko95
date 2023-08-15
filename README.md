@@ -3,7 +3,7 @@
 <h3 align="center">I am an ambitious and confident individual, keen to improve and learn new skills. As an enthusiastic and pacient leader I feel motivated to help and teach others. With a background in graphic design, I have always been passionate about new technologies that can impact the future of programming. I took the initiative to enroll on a “Soy Henry” bootcamp course and will soon qualify as a Full Stack Web Developer.</h3>
 
 
-- 🔭 I’m currently working on [VaultKeeper](https://github.com/Ezeko95/VaultKeeper)
+- 🔭 I’m currently working on **[VaultKeeper](https://github.com/Ezeko95/VaultKeeper)**
 
 - 🌱 I’m currently learning **MongoDB && typescript**
 
