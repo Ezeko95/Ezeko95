@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gianluca Cianchi</h1>
 <img align="center" width="1100px" src="https://raw.githubusercontent.com/Ezeko95/Intro/main/Intro.gif" alt="intro.gif"></img>
-<h3 align="center">I am an ambitious and confident individual, keen to improve and learn new skills. As an enthusiastic and pacient leader I feel motivated to help and teach others. With a background in graphic design, I have always been passionate about new technologies that can impact the future of programming. I took the initiative to enroll on a “Soy Henry” bootcamp course and will soon qualify as a Full Stack Web Developer.</h3>
+<h3 align="center">I'm a highly motivated full-stack developer with a strong background in web development. My primary focus revolves around continuous learning and effective leadership of development teams. I'm passionate about problem-solving and thrive on collaborating with teams to find solutions. I'm constantly evolving and proactively learning to reach my goals.</h3>
 
 
-- 🔭 I’m currently working on **[VaultKeeper](https://github.com/Ezeko95/VaultKeeper)**
+- 🔭 I’m currently working on **Digital Market Educational Platform**
 
 - 🌱 I’m currently learning **MongoDB && typescript**
 
