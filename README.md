@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gianluca Cianchi</h1>
 <img align="center" width="1100px" src="https://raw.githubusercontent.com/Ezeko95/Intro/main/Intro.gif" alt="intro.gif"></img>
-<h3 align="center">I'm a highly motivated full-stack developer with a strong background in web development. My primary focus revolves around continuous learning and effective leadership of development teams. I'm passionate about problem-solving and thrive on collaborating with teams to find solutions. I'm constantly evolving and proactively learning to reach my goals.</h3>
+<h3 align="center">Highly motivated full-stack developer with a strong background in web development. With a focus that revolves around continuous learning and effective leadership of development teams. Passionate about problem-solving and thrive on collaborating with teams to find solutions. Constantly evolving and proactively learning to reach my goals.</h3>
 
 
-- 🔭 I’m currently working on **Digital Market Educational Platform**
+- 🔭 Currently working on **Digital Market Educational Platform**
 
-- 🌱 I’m currently learning **MongoDB && typescript**
+- 🌱 Currently learning **MongoDB && typescript**
 
 - 💬 Ask me about **Python, FastAPI, React, Node.js, Javascript, Express, PostgreSQL, and more!**
 
