@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gianluca Cianchi</h1>
-<img align="center" width="1100px" src="https://raw.githubusercontent.com/Ezeko95/Intro/main/Intro.gif" alt="intro.gif"></img>
+<img align="center" width="1100px" src="https://raw.githubusercontent.com/Ezeko95/gif-github/main/github.gif" alt="intro.gif"></img>
 <h3 align="center">Highly motivated full-stack developer with a strong background in web development. With a focus that revolves around continuous learning and effective leadership of development teams. Passionate about problem-solving and thrive on collaborating with teams to find solutions. Constantly evolving and proactively learning to reach my goals.</h3>
 
 
