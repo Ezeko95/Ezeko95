@@ -5,13 +5,13 @@
 
 - 🔭 Currently working on **Digital Market Educational Platform**
 
-- 🌱 Currently learning **MongoDB && typescript**
+- 🌱 Currently learning **Queries optimization && Backend architecture**
 
-- 💬 Ask me about **Python, FastAPI, React, Node.js, Javascript, Express, PostgreSQL, and more!**
+- 💬 Ask me about **Python, FastAPI, React, Node.js, Typescript, Express or PostgreSQL**
 
 - 📫 How to reach me **ciangianluca@hotmail.com** or **[Linkedin](linkedin.com/in/gianluca-cianchi)**
 
-- ⚡ Fun fact **I love drinking mate**
+- ⚡ Fun fact **I love sports, movies and mate 🧉**
 
 
 <p align="left">
