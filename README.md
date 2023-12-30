@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Gianluca Cianchi</h1>
+<h1 align="center">Hi 👋, I'm Gianluca Cianchi!</h1>
 <img align="center" width="1100px" src="https://raw.githubusercontent.com/Ezeko95/gif-github/main/github.gif" alt="intro.gif"></img>
-<h3 align="center">Highly motivated full-stack developer with a strong background in web development. With a focus that revolves around continuous learning and effective leadership of development teams. Passionate about problem-solving and thrive on collaborating with teams to find solutions. Constantly evolving and proactively learning to reach my goals.</h3>
+<h3 align="left">Tech-passionate full-stack developer with a background in IT and psychology! This blend of tech enthusiasm, soft skills from psychology, and technical expertise equips me to tackle diverse challenges, offering innovative solutions and continuous growth.
+</h3>
 
 
-- 🔭 Currently working on **Digital Market Educational Platform**
+- 🔭 Currently working on **Freelance Projects**
 
-- 🌱 Currently learning **Queries optimization && Backend architecture**
+- 🌱 Currently learning **CI/CD && Backend architecture**
 
-- 💬 Ask me about **Python, FastAPI, React, Node.js, Typescript, Express or PostgreSQL**
+- 💬 Ask me about **Python, Django, React, NextJS, Node.js, Typescript, Express or PostgreSQL**
 
 - 📫 How to reach me **ciangianluca@hotmail.com** or **[Linkedin](linkedin.com/in/gianluca-cianchi)**
 
